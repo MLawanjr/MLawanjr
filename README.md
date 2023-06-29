@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MLawanjr
-- 👀 I’m interested in Front end web development
-- 🌱 I’m currently learning HTML,CSS and JavaScript
+- 👀 I’m interested in Data Analytics and IT Support 
+- 🌱 I’m currently Practicing IT Support and Data Analytics 
 - 💞️ I’m looking to collaborate on with a team or mentor
 - 📫 How to reach me ...
  M_Lawan_Jr@twitter
